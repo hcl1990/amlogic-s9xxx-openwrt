@@ -224,7 +224,7 @@ on:
           - yourname
 
 env:
-  TZ: America/New_York
+  TZ: Asia/Shanghai
   IMAGEBUILDER_SH: config/imagebuilder/imagebuilder.sh
 
 jobs:
